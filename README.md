@@ -1,3 +1,4 @@
+Milestone 1 Tasks
 Overview:
 This project uses Power BI to analyze sales data and segment customers based on their spending patterns. The project involves data extraction, transformation, and analysis through DAX calculations, providing insights into sales performance and customer behavior.
 
